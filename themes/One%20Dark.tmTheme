@@ -102,7 +102,12 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#abb2bf</string>
+				<!--<string>#abb2bf</string>-->
+				<!--
+				this change operators to same color as keywords
+				in favor of normal text color.
+				-->
+				<string>#c678dd</string>
 			</dict>
 		</dict>
 		<dict>
