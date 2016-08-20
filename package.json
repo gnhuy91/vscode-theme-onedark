@@ -1,9 +1,9 @@
 {
     "name": "vscode-theme-onedark",
-    "displayName": "One Dark Theme",
-    "description": "One Dark Theme based on Atom",
-    "version": "0.2.6",
-    "publisher": "akamud",
+    "displayName": "One Dark Theme Improved",
+    "description": "One Dark Theme Improved based on Atom",
+    "version": "0.0.1",
+    "publisher": "gnhuy91",
     "license": "MIT",
     "engines": {
        "vscode": "^0.10.1"
@@ -15,18 +15,18 @@
     "contributes": {
         "themes": [
             {
-                "label": "One Dark",
+                "label": "One Dark Improved",
                 "uiTheme": "vs-dark",
                 "path": "./themes/One%20Dark.tmTheme"
             }
         ]
     },
     "bugs": {
-        "url": "https://github.com/akamud/vscode-theme-onedark/issues"
+        "url": "https://github.com/gnhuy91/vscode-theme-onedark/issues"
     },
-    "homepage": "https://github.com/akamud/vscode-theme-onedark/blob/master/README.md",
+    "homepage": "https://github.com/gnhuy91/vscode-theme-onedark/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/akamud/vscode-theme-onedark.git"
+        "url": "https://github.com/gnhuy91/vscode-theme-onedark.git"
     }
 }
